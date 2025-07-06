@@ -1,0 +1,51 @@
+id;usia;jenis_kelamin;bmi;status_pekerjaan;pendidikan;cangkir_per_hari;jenis_kopi;waktu_konsumsi;kafein_mg;kualitas_tidur;tekanan_darah_sistolik;detak_jantung;energi_harian;tingkat_stress;kecemasan;mood;konsentrasi;produktivitas;kepuasan_hidup;aktivitas_sosial;kesehatan_keseluruhan;kategori_konsumsi
+1;25;Pria;22.5;Karyawan;S1;2;Espresso;Pagi;160;7;118;72;8;4;3;7;8;8;7;8;8;Sedang
+2;34;Wanita;24.1;Manager;S2;4;Americano;Pagi Siang;320;5;135;85;6;6;5;6;7;7;6;7;6;Tinggi
+3;28;Pria;21.8;Freelancer;S1;1;Latte;Pagi;95;8;110;68;7;2;2;8;7;7;8;7;8;Rendah
+4;42;Wanita;26.3;Direktur;S2;6;Espresso;Pagi Siang Malam;480;3;145;92;5;8;7;4;5;6;5;5;4;Berlebihan
+5;31;Pria;23.7;Dokter;S3;3;Cappuccino;Pagi Siang;240;6;125;78;7;5;4;6;7;7;6;7;7;Sedang
+6;26;Wanita;20.9;Mahasiswa;S1;1;Instant;Pagi;80;8;115;70;8;3;3;8;8;8;8;8;8;Rendah
+7;38;Pria;25.4;Engineer;S1;5;Americano;Pagi Siang;400;4;140;88;6;7;6;5;6;6;5;6;5;Tinggi
+8;29;Wanita;22.1;Guru;S1;2;Latte;Pagi;160;7;120;74;8;4;3;7;8;7;7;8;8;Sedang
+9;45;Pria;27.8;Pengusaha;S2;7;Espresso;Sepanjang Hari;560;2;155;98;4;9;8;3;4;5;4;4;3;Berlebihan
+10;33;Wanita;23.5;Akuntan;S1;3;Cappuccino;Pagi Siang;240;6;128;76;7;5;4;6;7;7;6;7;7;Sedang
+11;27;Pria;21.2;Designer;S1;1;Cold_Brew;Pagi;120;8;112;69;8;2;2;8;8;8;8;8;8;Rendah
+12;39;Wanita;24.8;Lawyer;S2;4;Americano;Pagi Siang;320;5;138;82;6;6;5;6;7;7;6;7;6;Tinggi
+13;22;Pria;20.5;Mahasiswa;S1;0;Tidak_Minum;Tidak Ada;0;9;105;65;9;1;1;9;9;9;9;9;9;Tidak_Ada
+14;36;Wanita;25.1;Nurse;S1;3;Instant;Pagi Siang;240;6;130;77;7;5;4;6;7;7;6;7;7;Sedang
+15;41;Pria;26.7;Manager;S2;5;Espresso;Pagi Siang;400;4;142;86;6;7;6;5;6;6;5;6;5;Tinggi
+16;30;Wanita;22.9;Marketing;S1;2;Latte;Pagi;160;7;122;73;8;4;3;7;8;7;7;8;8;Sedang
+17;35;Pria;24.3;Consultant;S2;6;Americano;Pagi Siang Malam;480;3;148;90;5;8;7;4;5;6;5;5;4;Berlebihan
+18;28;Wanita;21.6;Peneliti;S3;2;Cappuccino;Pagi;160;7;118;72;8;4;3;7;8;8;7;8;8;Sedang
+19;32;Pria;23.1;It_Specialist;S1;4;Cold_Brew;Pagi Siang;320;5;135;84;6;6;5;6;7;7;6;7;6;Tinggi
+20;26;Wanita;20.4;Journalist;S1;1;Instant;Pagi;80;8;114;68;8;3;3;8;8;8;8;8;8;Rendah
+21;44;Pria;27.2;Ceo;S2;8;Espresso;Sepanjang Hari;640;2;160;102;3;9;9;2;3;4;3;3;2;Berlebihan
+22;29;Wanita;22.7;Pharmacist;S2;3;Latte;Pagi Siang;240;6;126;75;7;5;4;6;7;7;6;7;7;Sedang
+23;37;Pria;25.8;Architect;S1;4;Americano;Pagi Siang;320;5;136;83;6;6;5;6;7;7;6;7;6;Tinggi
+24;31;Wanita;23.4;Psychologist;S3;2;Cappuccino;Pagi;160;7;120;74;8;4;3;7;8;7;7;8;8;Sedang
+25;40;Pria;26.5;Sales;S1;5;Instant;Pagi Siang;400;4;140;87;6;7;6;5;6;6;5;6;5;Tinggi
+26;24;Wanita;21.1;Graphic_Designer;S1;1;Cold_Brew;Pagi;120;8;116;70;8;2;2;8;8;8;8;8;8;Rendah
+27;38;Pria;24.9;Engineer;S2;6;Espresso;Pagi Siang Malam;480;3;145;91;5;8;7;4;5;6;5;5;4;Berlebihan
+28;33;Wanita;22.8;Teacher;S1;2;Latte;Pagi;160;7;121;73;8;4;3;7;8;7;7;8;8;Sedang
+29;42;Pria;27.1;Finance;S2;7;Americano;Sepanjang Hari;560;2;152;95;4;9;8;3;4;5;4;4;3;Berlebihan
+30;28;Wanita;21.9;Dentist;S3;3;Cappuccino;Pagi Siang;240;6;127;76;7;5;4;6;7;7;6;7;7;Sedang
+31;35;Pria;24.6;Programmer;S1;4;Cold_Brew;Pagi Siang;320;5;134;82;6;6;5;6;7;7;6;7;6;Tinggi
+32;27;Wanita;20.8;Writer;S1;1;Instant;Pagi;80;8;115;69;8;3;3;8;8;8;8;8;8;Rendah
+33;43;Pria;26.9;Director;S2;6;Espresso;Pagi Siang Malam;480;3;147;89;5;8;7;4;5;6;5;5;4;Berlebihan
+34;30;Wanita;23.2;Analyst;S2;3;Latte;Pagi Siang;240;6;125;75;7;5;4;6;7;7;6;7;7;Sedang
+35;36;Pria;25.3;Contractor;S1;5;Americano;Pagi Siang;400;4;139;85;6;7;6;5;6;6;5;6;5;Tinggi
+36;25;Wanita;21.5;Student;S1;0;Tidak_Minum;Tidak Ada;0;9;108;66;9;1;1;9;9;9;9;9;9;Tidak_Ada
+37;39;Pria;26.1;Consultant;S2;4;Cappuccino;Pagi Siang;320;5;133;81;6;6;5;6;7;7;6;7;6;Tinggi
+38;32;Wanita;22.3;Hr_Manager;S1;2;Cold_Brew;Pagi;160;7;119;72;8;4; ;7;8;8;7;8;8;Sedang
+39;46;Pria;28.1;Executive;S2;8;Espresso;Sepanjang Hari;640;2;158;100;3;9;9;2;3;4;3;3;2;Berlebihan
+40;29;Wanita;22.6;Scientist;S3;3;Latte;Pagi Siang;240;6;124;74;7;5;4;6;7;7;6;7;7;Sedang
+41;34;Pria;24.4;Operations;S1;4;Americano;Pagi Siang;320;5;135;83;6;6;5;6;7;7;6;7;6;Tinggi
+42;26;Wanita;21.3;Coordinator;S1;1;Instant;Pagi;80;8;113;68;8;3;3;8;8;8;8;8;8;Rendah
+43;41;Pria;27.4;Manager;S2;6;Espresso;Pagi Siang Malam;480;3;146;88;5;8;7;4;5;6;5;5;4;Berlebihan
+44;31;Wanita;23.0;Veterinarian;S3;2;Cappuccino;Pagi;160;7;122;73;8;4;3;7;8;7;7;8;8;Sedang
+45;37;Pria;25.7;Technician;S1;5;Cold_Brew;Pagi Siang;400;4;138;84;6;7;6;5;6;6;5;6;5;Tinggi
+46;28;Wanita;21.8;Editor;S1;1;Latte;Pagi;95;8;117;70;8;2;2;8;8;8;8;8;8;Rendah
+47;44;Pria;27.6;Vp;S2;7;Espresso;Sepanjang Hari;560;2;154;97;4;9;8;3;4;5;4;4;3;Berlebihan
+48;30;Wanita;22.4;Auditor;S2;3;Americano;Pagi Siang;240;6;126;76;7;5;4;6;7;7;6;7;7;Sedang
+49;35;Pria;24.8;Supervisor;S1;4;Instant;Pagi Siang;320;5;136;82;6;6;5;6;7;7;6;7;6;Tinggi
+50;27;Wanita;21.0;Researcher;S3;2;Cappuccino;Pagi;160;7;118;71;8;4;3;7;8;8;7;8;8;Sedang
